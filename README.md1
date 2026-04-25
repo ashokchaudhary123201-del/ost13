@@ -1,0 +1,6 @@
+touch README.md
+
+This is my assignment project.
+git add README.md
+git commit -m "Added README"
+git Push
